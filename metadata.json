@@ -1,7 +1,0 @@
-{
-  "name": "Copy of Modern Placement Launchpad",
-  "description": "An AI-powered career development platform offering diagnostic skill tests, personalized learning paths, AI-driven mock interviews, and mentor matching to prepare students for the job market.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
